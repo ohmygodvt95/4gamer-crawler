@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+scrapy runspider crawler_4gamer/spiders/gamer.py
