@@ -24,7 +24,7 @@ class GamerSpider(scrapy.Spider):
         },
         {
             'title': 'TS013',
-            'pages': '529',
+            'pages': 529,
             'category': 'iPhone'
         }
     ]
